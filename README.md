@@ -46,20 +46,20 @@ The system also includes a **local LCD display**, allowing readings and alerts t
 ## Hardware Prototype
 Prototype hardware used during development and testing.
 
-![Hardware Overview](images/hardware_overview.jpg)
+![Hardware Overview](images/hardware_overview.jpeg)
 
 ## LCD Output Examples
 
 The 16×2 I2C LCD displays different system states and sensor readings.
 
 ### Sensor Readings
-![Temperature Display](images/lcd_temperature_display.jpg)
+![Temperature Display](images/lcd_temperature_display.jpeg)
 
 ### GPS Information
-![GPS Display](images/lcd_gps_display.jpg)
+![GPS Display](images/lcd_gps_display.jpeg)
 
 ### SOS / Alert Messages
-![Alert Display](images/lcd_alert_display.jpg)
+![Alert Display](images/lcd_alert_display.jpeg)
 
 <br>
 
