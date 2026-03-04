@@ -1,0 +1,43 @@
++-------------+
+|   DHT11     |
+| Temperature |
+|  Humidity   |
++-------------+
+
++-------------+
+|  MAX30100   |
+| Heart Rate  |
+|   SpO2      |
++-------------+
+
++-------------+
+| GPS NEO-6M  |
+| Location    |
++-------------+
+
+        │
+        ▼
+
++------------------+
+|      ESP32       |
+| Data Processing  |
+| Threshold Check  |
+| SOS Detection    |
++------------------+
+
+      │        │
+      ▼        ▼
+
++-----------+  +----------------------+
+|  I2C LCD  |  | Bluetooth Interface  |
+| Local UI  |  | Data to Python GUI   |
++-----------+  +----------------------+
+
+                       │
+                       ▼
+
+             +------------------+
+             | Python GUI App   |
+             | Monitoring       |
+             | SOS Trigger      |
+             +------------------+
