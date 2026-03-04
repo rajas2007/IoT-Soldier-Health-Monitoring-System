@@ -84,6 +84,12 @@ Allows the user to manually activate an emergency alert.
 
 <br>
 
+## Python Monitoring Interface
+
+![Python GUI](images/python_gui.png)
+
+<br>
+
 ## SOS Alert System
 
 The system supports three independent SOS triggering mechanisms:
