@@ -79,3 +79,16 @@ When an SOS event occurs, the application displays the alert and shows the compl
 ## Role in the System
 
 The Python monitoring application serves as the **central monitoring interface**, enabling users to view real-time health data, manage alerts, and interact with the IoT device during operation.
+
+<br>
+
+## Running the Application
+
+1. Install Python 3
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Run the program:
+
+python health_monitor_gui.py
