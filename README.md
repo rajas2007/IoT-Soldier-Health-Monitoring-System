@@ -43,6 +43,26 @@ The system also includes a **local LCD display**, allowing readings and alerts t
 
 <br>
 
+## Hardware Prototype
+Prototype hardware used during development and testing.
+
+![Hardware Overview](images/hardware_overview.jpg)
+
+## LCD Output Examples
+
+The 16×2 I2C LCD displays different system states and sensor readings.
+
+### Sensor Readings
+![Temperature Display](images/lcd_temperature_display.jpg)
+
+### GPS Information
+![GPS Display](images/lcd_gps_display.jpg)
+
+### SOS / Alert Messages
+![Alert Display](images/lcd_alert_display.jpg)
+
+<br>
+
 ## Software Components
 
 ### ESP32 Firmware
