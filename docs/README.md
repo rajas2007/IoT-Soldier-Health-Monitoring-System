@@ -1,13 +1,21 @@
 <h2 align="center">Project Documentation</h2>
 
-This directory contains documentation related to the **IoT Soldier Health Monitoring System**.
+This directory contains academic documentation related to the **IoT Soldier Health Monitoring System**.
 
-Typical contents of this folder may include:
+## Project Presentation
 
-* Project reports and review documents
-* System architecture diagrams
-* Technical documentation
-* Testing results and performance analysis
-* Future development notes
+`Applied_Science_and_Engineering_Project_(ASEP)[1].pptx`
 
-These documents help explain the design decisions, implementation details, and system behavior of the project.
+This presentation was prepared as part of the academic evaluation and review process for the project.
+
+The document reflects the **official group submission format required by the course**, which includes all assigned team members and their review sections as part of the academic reporting process.
+
+The implementation provided in this repository represents the **working prototype and development work carried out for the system**, including:
+
+* ESP32 firmware development
+* Python monitoring application
+* Hardware–software integration
+* Sensor data acquisition and visualization
+* SOS alert system implementation
+
+Some features mentioned in the presentation (such as advanced AI analysis or extended system capabilities) represent **conceptual or proposed future improvements discussed during the review process** and may not be fully implemented in the current prototype.
