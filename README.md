@@ -27,6 +27,11 @@ The system also includes a **local LCD display**, allowing readings and alerts t
 * Local display using I2C LCD
 * Threshold-based automatic emergency detection
 
+  <br>
+  ## System Architecture
+
+![System Architecture](docs/system_architecture.png)
+
 <br>
 
 ## Hardware Components
@@ -47,6 +52,12 @@ The system also includes a **local LCD display**, allowing readings and alerts t
 Prototype hardware used during development and testing.
 
 ![Hardware Overview](images/hardware_overview.jpeg)
+
+<br>
+
+## Circuit Diagram
+
+![Circuit Diagram](docs/circuit_diagram.png)
 
 ## LCD Output Examples
 
