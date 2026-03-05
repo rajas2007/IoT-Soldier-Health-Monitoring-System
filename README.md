@@ -28,7 +28,7 @@ The system also includes a **local LCD display**, allowing readings and alerts t
 * Threshold-based automatic emergency detection
 
   <br>
-  ## System Architecture
+## System Architecture
 
 ![System Architecture](docs/system_architecture.png)
 
